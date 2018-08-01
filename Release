@@ -1,0 +1,13 @@
+Package: com.axelbyte.pangu7x
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Axelbyte <axelbytestuff@gmail.com>
+Filename: /Pangu7x.deb
+Size: 107276
+MD5sum: 3d86ef34bda9287e6081dda95b7593dd
+SHA1: 4267988b1bfdc4578dced131667ccca8eb6eb986
+SHA256: db7e412fd629802e26c8aec481cdca9cfe0a3bc33c7a4cc243351245da5cb172
+Section: Tweaks
+Description: the pangu 7.x - 7.1.x untether that saurik removed for no reason works on the iphone 4 through 5s
+Author: Axelbyte <axelbytestuff@gmail.com>
+Name: Pangu 7.1 - 7.1.x Untether
