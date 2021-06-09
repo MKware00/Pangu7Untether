@@ -1,5 +1,6 @@
 # Pangu iOS 7 Untethered jailbreak update
-Update package for Pangu iOS 7 Untethered jailbreak
+Update package for Pangu iOS 7 Untethered jailbreak.
+
 Since somewhy you can't add axelbyestuff's repo anymore, I made a solution:
 
 # Installation
