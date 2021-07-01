@@ -1,7 +1,7 @@
 # Pangu iOS 7 Untethered jailbreak update
 Update package for Pangu iOS 7 Untethered jailbreak.
 
-Since somewhy you can't add axelbyestuff's repo anymore, I made a solution:
+For Cydia-free installation
 
 # Installation
 
@@ -20,5 +20,3 @@ Firstly, you need to install Apple File Conduit 2 to your jailbroken iPhone from
 Done.
 
 Original package were in axelbytestuff's repo
-
-Fix by MSS
