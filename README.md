@@ -8,7 +8,7 @@ For Cydia-free installation
 Firstly, you need to install Apple File Conduit 2 to your jailbroken iPhone from saurik's repo.
 
 1. Download this repo
-2. Open `data.tar` from `Pangu7x` directory in archiver
+2. Open `data.tar` from `Pangu7x` folder in archiver
 3. Extract files from `data` folder to anywhere on your PC
 4. Connect your iPhone to your PC via USB
 5. Open 3uTools (if you don't have it - install and then open)
