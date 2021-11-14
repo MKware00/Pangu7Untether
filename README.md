@@ -19,4 +19,4 @@ Firstly, you need to install Apple File Conduit 2 to your jailbroken iPhone from
 
 Done.
 
-Original package were in axelbytestuff's repo
+Original package was taken from axelbytestuff's repo
